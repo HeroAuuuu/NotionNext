@@ -1,7 +1,7 @@
 const CONFIG = {
   
-  LANDING_HEADER_BUTTON_1_TITLE: '项目',
-  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
+  LANDING_HEADER_BUTTON_3_TITLE: '项目',
+  LANDING_HEADER_BUTTON_3_URL: 'https://github.com/tangly1024/NotionNext',
 
   LANDING_HEADER_BUTTON_1_TITLE: '更新',
   LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
