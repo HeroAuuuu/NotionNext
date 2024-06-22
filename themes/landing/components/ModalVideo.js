@@ -64,27 +64,7 @@ export default function ModalVideo({
                     </button>
                 </div>
             </div>
-            {/* End: Video thumbnail */}
 
-
-
-                    {/* Modal backdrop */}
-                    <Transition.Child
-                        className="fixed inset-0 z-[99999] bg-black bg-opacity-75 transition-opacity"
-                        enter="transition ease-out duration-200"
-                        enterFrom="opacity-0"
-                        enterTo="opacity-100"
-                        leave="transition ease-out duration-100"
-                        leaveFrom="opacity-100"
-                        leaveTo="opacity-0"
-                        aria-hidden="true"
-                    />
-                    {/* End: Modal backdrop */}
-
-
-
-                </Dialog>
-            </Transition>
 
         </div>
   )
