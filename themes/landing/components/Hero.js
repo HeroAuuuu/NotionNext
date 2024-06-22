@@ -56,11 +56,7 @@ export default function Hero() {
                     <ModalVideo
                         thumb={siteConfig('LANDING_HERO_VIDEO_IMAGE', null, CONFIG)}
                         thumbWidth={768}
-                        thumbHeight={432}
-                        thumbAlt={siteConfig('HERO_HEADER_1', null, CONFIG)}
-                        video={siteConfig('HERO_VIDEO_URL', null, CONFIG)}
-                        videoWidth={1920}
-                        videoHeight={1080} />
+                        thumbHeight={432} />
 
                 </div>
 
