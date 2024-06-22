@@ -53,7 +53,10 @@ export default function Hero() {
                     </div>
 
                     {/* Hero image */}
-
+                    <
+                        thumb={siteConfig('LANDING_HERO_VIDEO_IMAGE', null, CONFIG)}
+                        thumbWidth={768}
+                        thumbHeight={432} />
 
                 </div>
 
