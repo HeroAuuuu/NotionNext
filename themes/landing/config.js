@@ -1,9 +1,18 @@
 const CONFIG = {
-
-  LANDING_HEADER_BUTTON_1_TITLE: 'Github开源',
+  
+  LANDING_HEADER_BUTTON_1_TITLE: '项目',
   LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
 
-  LANDING_HEADER_BUTTON_2_TITLE: '作者博客',
+  LANDING_HEADER_BUTTON_1_TITLE: '更新',
+  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
+
+  LANDING_HEADER_BUTTON_1_TITLE: '定价',
+  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
+  
+  LANDING_HEADER_BUTTON_1_TITLE: '帮助',
+  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
+
+  LANDING_HEADER_BUTTON_2_TITLE: '下载',
   LANDING_HEADER_BUTTON_2_URL: 'https://blog.tangly1024.com/',
 
   // 首页大图英雄板块
