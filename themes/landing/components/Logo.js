@@ -1,21 +1,15 @@
+import { siteConfig } from '@/lib/config'
 import Link from 'next/link'
 
-export default function Logo() {
+const Logo = props => {
   return (
-        <Link href="/" className="block" aria-label="Cruip">
-            <svg className="w-8 h-8" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-                <defs>
-                    <radialGradient cx="21.152%" cy="86.063%" fx="21.152%" fy="86.063%" r="79.941%" id="footer-logo">
-                        <stop stopColor="#4FD1C5" offset="0%" />
-                        <stop stopColor="#81E6D9" offset="25.871%" />
-                        <stop stopColor="#338CF5" offset="100%" />
-                    </radialGradient>
-                </defs>
-                <rect width="32" height="32" rx="16" fill="url(#footer-logo)" fillRule="nonzero" />
-                <text x="42%" y="50%" textAnchor="middle" dominantBaseline="central" fontSize="24" fontFamily="'Century Gothic'" fontWeight="700" fontStyle="italic" fill="white">
-                    N
-                </text>
-            </svg>
-        </Link>
+    <Link href='/' passHref legacyBehavior>
+      <div className='flex justify-center items-center cursor-pointer space-y-3'>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src='/avatar.png' className='w-auto h-10'/>
+        <div className='invisible font-medium text-lg p-1.5 rounded dark:border-white dark:text-white menu-link transform duration-200'> {siteConfig('TITLE') }</div>
+      </div>
+    </Link>
   )
 }
+export default Logo
