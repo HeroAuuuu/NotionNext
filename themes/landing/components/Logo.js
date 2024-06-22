@@ -6,7 +6,7 @@ const Logo = props => {
     <Link href='/' passHref legacyBehavior>
       <div className='flex justify-center items-center cursor-pointer space-y-3'>
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src='/avatar.png' className='w-auto h-10'/>
+        <img src='/astrum.ico' className='w-auto h-10'/>
         <div className='invisible font-medium text-lg p-1.5 rounded dark:border-white dark:text-white menu-link transform duration-200'> {siteConfig('TITLE') }</div>
       </div>
     </Link>
