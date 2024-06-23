@@ -1,19 +1,19 @@
 const CONFIG = {
   
-  LANDING_HEADER_BUTTON_3_TITLE: '项目',
+  LANDING_HEADER_BUTTON_1_TITLE: '项目',
+  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
+
+  LANDING_HEADER_BUTTON_2_TITLE: '更新',
+  LANDING_HEADER_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext',
+
+  LANDING_HEADER_BUTTON_3_TITLE: '定价',
   LANDING_HEADER_BUTTON_3_URL: 'https://github.com/tangly1024/NotionNext',
-
-  LANDING_HEADER_BUTTON_1_TITLE: '更新',
-  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
-
-  LANDING_HEADER_BUTTON_1_TITLE: '定价',
-  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
   
-  LANDING_HEADER_BUTTON_1_TITLE: '帮助',
-  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
+  LANDING_HEADER_BUTTON_4_TITLE: '帮助',
+  LANDING_HEADER_BUTTON_4_URL: 'https://github.com/tangly1024/NotionNext',
 
-  LANDING_HEADER_BUTTON_2_TITLE: '下载',
-  LANDING_HEADER_BUTTON_2_URL: 'https://blog.tangly1024.com/',
+  LANDING_HEADER_BUTTON_5_TITLE: '下载',
+  LANDING_HEADER_BUTTON_5_URL: 'https://blog.tangly1024.com/',
 
   // 首页大图英雄板块
   LANDING_HERO_TITLE_1: 'Astrum',
