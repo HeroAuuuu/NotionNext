@@ -131,7 +131,7 @@ export default function Features() {
                     unmount={false}
                   >
                     <div className="relative inline-flex flex-col">
-                        <LazyImage src='/images/feature2.webp'/>
+                        <LazyImage src='/images/feature3.webp'/>
                     </div>
                   </Transition>
                   {/* Item 3 */}
@@ -149,7 +149,7 @@ export default function Features() {
                     unmount={false}
                   >
                     <div className="relative inline-flex flex-col">
-                        <LazyImage src='/images/feature3.webp'/>
+                        <LazyImage src='/images/feature2.webp'/>
                     </div>
                   </Transition>
                 </div>
