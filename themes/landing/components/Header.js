@@ -39,6 +39,11 @@ export default function Header() {
                 </Link>
               </li>
               <li>
+                <a href={siteConfig('LANDING_HEADER_BUTTON_7_URL', null, CONFIG)} target='_self' className="font-medium hover:font-bold text-gray-600 hover:text-gray-900 dark:text-gray-400 px-5 py-3 flex items-center transition duration-150 ease-in-out">
+                   <div>{siteConfig('LANDING_HEADER_BUTTON_7_TITLE', null, CONFIG)}</div>
+                </a>
+              </li>
+              <li>
                 <a href={siteConfig('LANDING_HEADER_BUTTON_3_URL', null, CONFIG)} target='_self' className="font-medium hover:font-bold text-gray-600 hover:text-gray-900 dark:text-gray-400 px-5 py-3 flex items-center transition duration-150 ease-in-out">
                    <div>{siteConfig('LANDING_HEADER_BUTTON_3_TITLE', null, CONFIG)}</div>
                 </a>
@@ -46,6 +51,11 @@ export default function Header() {
               <li>
                 <Link href={siteConfig('LANDING_HEADER_BUTTON_4_URL', null, CONFIG)} target='_self' className="font-medium hover:font-bold text-gray-600 hover:text-gray-900 dark:text-gray-400 px-5 py-3 flex items-center transition duration-150 ease-in-out">
                    <div>{siteConfig('LANDING_HEADER_BUTTON_4_TITLE', null, CONFIG)}</div>
+                </Link>
+              </li>
+              <li>
+                <Link href={siteConfig('LANDING_HEADER_BUTTON_6_URL', null, CONFIG)} target='_self' className="font-medium hover:font-bold text-gray-600 hover:text-gray-900 dark:text-gray-400 px-5 py-3 flex items-center transition duration-150 ease-in-out">
+                   <div>{siteConfig('LANDING_HEADER_BUTTON_6_TITLE', null, CONFIG)}</div>
                 </Link>
               </li>
               <li>
