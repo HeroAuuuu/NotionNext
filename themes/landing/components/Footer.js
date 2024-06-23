@@ -54,7 +54,7 @@ export default function Footer() {
                         <h6 className="text-gray-800 font-medium mb-2">产品</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">NotionNext</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Astrum</a>
                             </li>
                             <li className="mb-2">
                                 {/* <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Vercel</a> */}
@@ -82,13 +82,7 @@ export default function Footer() {
                                 <a href="https://docs.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">教程指南</a>
                             </li>
                             <li className="mb-2">
-                                <a href="https://blog.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">博客</a>
-                            </li>
-                            <li className="mb-2">
-                                <a href="https://blog.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">支持中心</a>
-                            </li>
-                            <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">合作方</a>
+                                <a href="https://www.astrumspace.top/help" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">支持中心</a>
                             </li>
                         </ul>
                     </div>
@@ -98,19 +92,16 @@ export default function Footer() {
                         <h6 className="text-gray-800 font-medium mb-2">企业</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">主页</a>
+                                <a href="https://www.astrumspace.top/" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">主页</a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">关于我们</a>
+                                <a href="https://www.astrumspace.top/about" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">关于我们</a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">公司价值观</a>
+                                <a href="https://www.astrumspace.top/#pricing" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">价格</a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">价格</a>
-                            </li>
-                            <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">隐私政策</a>
+                                <a href="https://www.astrumspace.top/privacy-policy" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">隐私政策</a>
                             </li>
                         </ul>
                     </div>
