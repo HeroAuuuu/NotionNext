@@ -28,6 +28,7 @@ module.exports = {
     },
     extend: {
       colors: {
+        'custom-blue': '#3758F9',
         day: {
           DEFAULT: BLOG.BACKGROUND_LIGHT || '#ffffff'
         },
