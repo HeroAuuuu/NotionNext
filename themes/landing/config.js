@@ -7,7 +7,7 @@ const CONFIG = {
   LANDING_HEADER_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext',
 
   LANDING_HEADER_BUTTON_3_TITLE: '定价',
-  LANDING_HEADER_BUTTON_3_URL: '#pricing',
+  LANDING_HEADER_BUTTON_3_URL: 'https://www.astrumspace.top/#pricing',
   
   LANDING_HEADER_BUTTON_4_TITLE: '帮助',
   LANDING_HEADER_BUTTON_4_URL: 'https://github.com/tangly1024/NotionNext',
@@ -19,9 +19,9 @@ const CONFIG = {
   LANDING_HERO_TITLE_1: 'Astrum',
   LANDING_HERO_P_1: '「Astrum」致力于为用户开发更为人性化与便捷的软件工具',
   LANDING_HERO_BUTTON_1_TEXT: '开始体验',
-  LANDING_HERO_BUTTON_1_LINK: '#pricing',
+  LANDING_HERO_BUTTON_1_LINK: 'https://www.astrumspace.top/#pricing',
   LANDING_HERO_BUTTON_2_TEXT: '了解更多',
-  LANDING_HERO_BUTTON_2_LINK: '#main',
+  LANDING_HERO_BUTTON_2_LINK: 'https://www.astrumspace.top/#main',
   LANDING_HERO_VIDEO_IMAGE: '/images/Home.png',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
 
