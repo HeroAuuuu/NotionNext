@@ -72,19 +72,19 @@ const CONFIG = {
   LANDING_PRICING_P: '截至目前，Dawn&Dawnight 与 Astrum 所开发的标准版软件均免费，但您仍然可以选择以支持 Astrum 的开发工作',
 
   LANDING_PRICING_1_TITLE: 'Free',
-  LANDING_PRICING_1_PRICE: '$0/月',
+  LANDING_PRICING_1_PRICE: '￥0.0/月',
   LANDING_PRICING_1_CONTENT: '免费使用标准版/试用版软件,邮件支持服务',
   LANDING_PRICING_1_BUTTON: '开始体验',
   LANDING_PRICING_1_URL: 'https://docs.tangly1024.com/about',
 
   LANDING_PRICING_2_TITLE: 'Pro',
-  LANDING_PRICING_2_PRICE: '$1.9/月',
+  LANDING_PRICING_2_PRICE: '￥14.9/月',
   LANDING_PRICING_2_CONTENT: '更为强大、丰富的功能,邮件支持服务,抢先体验,无限制使用',
   LANDING_PRICING_2_BUTTON: '立即购买',
   LANDING_PRICING_2_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/0adb9153-0799-4f51-91aa-1f06391ea4e0',
 
   LANDING_PRICING_3_TITLE: 'Business',
-  LANDING_PRICING_3_PRICE: '$19/月',
+  LANDING_PRICING_3_PRICE: '￥99.0/月',
   LANDING_PRICING_3_CONTENT: '最为强大、丰富的功能,VIP技术支持服务,商用许可证,无限制使用,抢先体验,定制功能，付费软件使用权',
   LANDING_PRICING_3_BUTTON: '联系销售',
   LANDING_PRICING_3_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
