@@ -7,7 +7,7 @@ const CONFIG = {
   LANDING_HEADER_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext',
 
   LANDING_HEADER_BUTTON_3_TITLE: '定价',
-  LANDING_HEADER_BUTTON_3_URL: 'https://github.com/tangly1024/NotionNext',
+  LANDING_HEADER_BUTTON_3_URL: '#pricing',
   
   LANDING_HEADER_BUTTON_4_TITLE: '帮助',
   LANDING_HEADER_BUTTON_4_URL: 'https://github.com/tangly1024/NotionNext',
@@ -81,14 +81,14 @@ const CONFIG = {
   LANDING_PRICING_2_PRICE: '￥14.9/月',
   LANDING_PRICING_2_CONTENT: '更为强大、丰富的功能,邮件支持服务,抢先体验,无限制使用',
   LANDING_PRICING_2_BUTTON: '立即购买',
-  LANDING_PRICING_2_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/0adb9153-0799-4f51-91aa-1f06391ea4e0',
+  LANDING_PRICING_2_URL: 'https://afdian.net/a/Astrum',
 
   LANDING_PRICING_3_TITLE: 'Business',
   LANDING_PRICING_3_PRICE: '￥99.0/月',
   LANDING_PRICING_3_CONTENT: '最为强大、丰富的功能,VIP技术支持服务,商用许可证,无限制使用,抢先体验,定制功能,付费软件使用权',
-  LANDING_PRICING_3_BUTTON: '联系销售',
-  LANDING_PRICING_3_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+  LANDING_PRICING_3_BUTTON: '立即购买',
+  LANDING_PRICING_3_URL: 'https://afdian.net/a/Astrum',
 
-  LANDING_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_LANDING_NEWSLETTER || true // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
+  LANDING_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_LANDING_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
 export default CONFIG
