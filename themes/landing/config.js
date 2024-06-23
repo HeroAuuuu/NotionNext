@@ -68,7 +68,7 @@ const CONFIG = {
   LANDING_TESTIMONIALS_NICKNAME: 'Astrum 最新推出的产品',
   LANDING_TESTIMONIALS_ID: 'Astrum For Cloud Class',
   LANDING_TESTIMONIALS_SOCIAL_NAME: 'Code: Orion 猎户座',
-  LANDING_TESTIMONIALS_SOCIAL_URL: 'https://blog.gaoran.xyz/',
+  LANDING_TESTIMONIALS_SOCIAL_URL: 'https://www.astrumspace.top/download',
   LANDING_TESTIMONIALS_WORD: '由 Astrum 开发的 RJ云课堂 辅助工具，它拥有快速关闭云课堂、解除控制、破译云密码、卸载云课堂等强大的功能，为用户提供无与伦比的使用体验',
 
   LANDING_POST_REDIRECT_ENABLE: process.env.NEXT_PUBLIC_POST_REDIRECT_ENABLE || false, // 是否开启文章地址重定向 ； 用于迁移旧网站域名
@@ -81,7 +81,7 @@ const CONFIG = {
   LANDING_PRICING_1_PRICE: '￥0/月',
   LANDING_PRICING_1_CONTENT: '免费使用标准版/试用版软件,邮件支持服务',
   LANDING_PRICING_1_BUTTON: '开始体验',
-  LANDING_PRICING_1_URL: 'https://docs.tangly1024.com/about',
+  LANDING_PRICING_1_URL: 'https://www.astrumspace.top/project',
 
   LANDING_PRICING_2_TITLE: 'Pro',
   LANDING_PRICING_2_PRICE: '￥14.9/月',
