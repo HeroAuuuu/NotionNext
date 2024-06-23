@@ -61,8 +61,8 @@ const CONFIG = {
   LANDING_FEATURES_BLOCK_6_P: '我们会提供技术支持服务，确保您遇到问题时或有功能建议时都能及时获得帮助和支持',
 
   // 感言
-  LANDING_TESTIMONIALS_HEADER: '目前已拥有 5 个游戏及软件的辅助工具，未来我们也将不断推出更多的工具软件',
-  LANDING_TESTIMONIALS_P: '自2020年以来已由 Dawn&Dawnight 开发了4款工具，2023-2024由 Astrum 开发了1款工具，在未来将由 Astrum (前Dawn) 开发更多强大可靠的软件',
+  LANDING_TESTIMONIALS_HEADER: '目前已拥有 8 个游戏及软件的辅助工具，未来我们也将不断推出更多的工具软件',
+  LANDING_TESTIMONIALS_P: '自2020年以来已由 Dawn&Dawnight 开发了7款工具，2023-2024由 Astrum 开发了1款工具，在未来将由 Astrum (前Dawn) 开发更多强大可靠的软件',
 
   LANDING_TESTIMONIALS_AVATAR: 'https://img.imesong.com/file/b7d2abe9069f92f28255e.png',
   LANDING_TESTIMONIALS_NICKNAME: 'Astrum 最新推出的产品',
@@ -78,7 +78,7 @@ const CONFIG = {
   LANDING_PRICING_P: '截至目前，Dawn&Dawnight 与 Astrum 所开发的标准版软件均免费，但您仍然可以选择以支持 Astrum 的开发工作',
 
   LANDING_PRICING_1_TITLE: 'Free',
-  LANDING_PRICING_1_PRICE: '￥0.0/月',
+  LANDING_PRICING_1_PRICE: '￥0/月',
   LANDING_PRICING_1_CONTENT: '免费使用标准版/试用版软件,邮件支持服务',
   LANDING_PRICING_1_BUTTON: '开始体验',
   LANDING_PRICING_1_URL: 'https://docs.tangly1024.com/about',
