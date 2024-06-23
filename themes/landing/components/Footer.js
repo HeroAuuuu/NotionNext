@@ -76,20 +76,16 @@ export default function Footer() {
                         <h6 className="text-gray-800 font-medium mb-2">资源</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="https://docs.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">技术文档</a>
+                                <a href="https://support.astrumspace.top/" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">技术文档</a>
                             </li>
                             <li className="mb-2">
-                                <a href="https://docs.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">教程指南</a>
-                            </li>
-                            <li className="mb-2">
-                                <a href="https://www.astrumspace.top/help" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">支持中心</a>
-                            </li>
+                                <a href="https://support.astrumspace.top/bang-zhu/bang-zhu-wen-dang" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">帮助文档</a>
                         </ul>
                     </div>
 
                     {/* 4th block */}
                     <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                        <h6 className="text-gray-800 font-medium mb-2">企业</h6>
+                        <h6 className="text-gray-800 font-medium mb-2">团队</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
                                 <a href="https://www.astrumspace.top/" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">主页</a>
