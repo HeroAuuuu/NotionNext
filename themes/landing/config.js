@@ -36,7 +36,7 @@ const CONFIG = {
   LANDING_FEATURES_CARD_2_TITLE: '强大多样的功能',
   LANDING_FEATURES_CARD_2_P: '无论是提升游戏体验还是日常使用，我们的软件都能为您提供强大且多样的解决方案',
   LANDING_FEATURES_CARD_3_TITLE: '稳定可靠的支持',
-  LANDING_FEATURES_CARD_3_P: '我们提供的工具经过严格测试，提供、长期有效的支持',
+  LANDING_FEATURES_CARD_3_P: '我们提供的工具经过严格测试，确保在各种环境下都能稳定运行，让您使用无忧',
 
   // 特性介绍2
   LANDING_FEATURES_BLOCK_HEADER: '解决方案',
