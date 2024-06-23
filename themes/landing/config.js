@@ -26,6 +26,7 @@ const CONFIG = {
   //   HERO_VIDEO_URL: '/videos/video.mp4',
 
   // 特性介绍
+  LANDING_FEATURES_HEADER_0: '特点',
   LANDING_FEATURES_HEADER_1: '探索的过程',
   LANDING_FEATURES_HEADER_1_P: "如何搭建自己的门户网站，塑造一个品牌展示中心？<br/>曾经，它是系统<strong class='font-bold text-red-500'>繁重</strong>的Wordpress、是操作<strong class='font-bold  text-red-500'>复杂</strong>的Hexo、是<strong class='font-bold text-red-500'>昂贵</strong>且<strong class='font-bold text-red-500'>不稳定</strong>的技术团队;<br/>现在，只要一个Notion笔记就够了",
   LANDING_FEATURES_HEADER_2: 'Notion+NextJs组合方案',
