@@ -21,7 +21,7 @@ const CONFIG = {
   LANDING_HERO_BUTTON_1_TEXT: '开始体验',
   LANDING_HERO_BUTTON_1_LINK: '#pricing',
   LANDING_HERO_BUTTON_2_TEXT: '了解更多',
-  LANDING_HERO_BUTTON_2_LINK: 'https://docs.tangly1024.com/about',
+  LANDING_HERO_BUTTON_2_LINK: '#main',
   LANDING_HERO_VIDEO_IMAGE: '/images/Home.png',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
 
