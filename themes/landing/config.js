@@ -49,8 +49,8 @@ const CONFIG = {
   LANDING_FEATURES_BLOCK_3_P: '我们会定期更新软件，推出新功能，确保您始终使用最新最强大的工具',
   LANDING_FEATURES_BLOCK_4_TITLE: '严格的安全保护',
   LANDING_FEATURES_BLOCK_4_P: '我们的软件在您的使用过程中不会向后台发送任何和您相关的信息，以保证用户数据安全',
-  LANDING_FEATURES_BLOCK_5_TITLE: '稳定的运行环境',
-  LANDING_FEATURES_BLOCK_5_P: '我们的软件使用无污染的环境运行，确保在各种操作环境下都能稳定运行，兼容绝大多数电脑',
+  LANDING_FEATURES_BLOCK_5_TITLE: '顶级的安全系统',
+  LANDING_FEATURES_BLOCK_5_P: '自Dawn成立以来，我们所开发的项目至今没有被任何一款反作弊所检测到，真正实现了“0封禁”',
   LANDING_FEATURES_BLOCK_6_TITLE: '及时的技术支持',
   LANDING_FEATURES_BLOCK_6_P: '我们会提供技术支持服务，确保您遇到问题时或有功能建议时都能及时获得帮助和支持',
 
