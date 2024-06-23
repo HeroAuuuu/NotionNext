@@ -27,16 +27,16 @@ const CONFIG = {
 
   // 特性介绍
   LANDING_FEATURES_HEADER_0: '特点',
-  LANDING_FEATURES_HEADER_1: '探索的过程',
-  LANDING_FEATURES_HEADER_1_P: "如何搭建自己的门户网站，塑造一个品牌展示中心？<br/>曾经，它是系统<strong class='font-bold text-red-500'>繁重</strong>的Wordpress、是操作<strong class='font-bold  text-red-500'>复杂</strong>的Hexo、是<strong class='font-bold text-red-500'>昂贵</strong>且<strong class='font-bold text-red-500'>不稳定</strong>的技术团队;<br/>现在，只要一个Notion笔记就够了",
-  LANDING_FEATURES_HEADER_2: 'Notion+NextJs组合方案',
-  LANDING_FEATURES_HEADER_2_P: '在Notion笔记中管理文章数据，NextJs将其渲染成网页排版，通过Vercel等第三方平台将您的网站发布到全球。',
-  LANDING_FEATURES_CARD_1_TITLE: '简单快速的系统',
-  LANDING_FEATURES_CARD_1_P: '在Notion中写下一篇文章，内容立刻在您的网站首页中呈现给互联网',
-  LANDING_FEATURES_CARD_2_TITLE: '高效传播的媒介',
-  LANDING_FEATURES_CARD_2_P: '优秀的SEO、快速的响应速度，让您的产品和宣传触达到更多的受众',
-  LANDING_FEATURES_CARD_3_TITLE: '人性化的定制工具',
-  LANDING_FEATURES_CARD_3_P: '多款主题供您挑选，可以搭建各种不同风格和作用的网站，更多的主题正在陆续加入中。',
+  LANDING_FEATURES_HEADER_1: 'Astrum的主要特点',
+  LANDING_FEATURES_HEADER_1_P: "如何更方便，更快捷的完成游戏或日常中极为繁琐、复杂的操作？<br/>过去，实现某些功能可能需要<strong class='font-bold text-red-500'>复杂</strong>的操作和<strong class='font-bold text-red-500'>技术</strong>背景。现在，通过我们直观、易用的平台，您可以快速掌握并应用各种工具，无需专业知识，只需要 Astrum 就足够了",
+  LANDING_FEATURES_HEADER_2: '轻松提升您的数字生活',
+  LANDING_FEATURES_HEADER_2_P: '在快速发展的数字时代，我们致力于让每一位用户都能轻松、便捷地提升自己的游戏体验和日常电脑使用效率。我们的软件不仅针对游戏，还覆盖了Windows系统中的各种实用功能。',
+  LANDING_FEATURES_CARD_1_TITLE: '方便简单的操作',
+  LANDING_FEATURES_CARD_1_P: '我们的软件设计直观，操作简便，无论是游戏爱好者还是日常电脑用户，都能轻松上手',
+  LANDING_FEATURES_CARD_2_TITLE: '强大多样的功能',
+  LANDING_FEATURES_CARD_2_P: '无论是提升游戏体验还是日常使用，我们的软件都能为您提供强大且多样的解决方案',
+  LANDING_FEATURES_CARD_3_TITLE: '稳定可靠的支持',
+  LANDING_FEATURES_CARD_3_P: '我们提供的工具经过严格测试，提供、长期有效的支持',
 
   // 特性介绍2
   LANDING_FEATURES_BLOCK_HEADER: '解决方案',
