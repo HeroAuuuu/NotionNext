@@ -75,7 +75,7 @@ export default function Newsletter() {
                                 {/* CTA form */}
                                 <form ref={formRef} className="w-full lg:w-auto">
                                     <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:mx-0">
-                                        <input disabled={success} type="email" className="form-input w-full appearance-none bg-gray-800 border border-gray-700 focus:border-gray-600 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2  placeholder-gray-500" placeholder="Your email…" aria-label="你的电子邮箱..." required />
+                                        <input disabled={success} type="email" className="form-input w-full appearance-none bg-gray-800 border border-gray-700 focus:border-gray-600 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2  placeholder-gray-500" placeholder="你的电子邮箱..." aria-label="你的电子邮箱..." required />
                                         <button disabled={success} type='submit' className={`btn text-white  shadow ${success ? 'bg-green-600 hover:bg-green-700' : 'bg-blue-600 hover:bg-blue-700'}`} href="#0">{success ? '已订阅' : '订阅'}</button>
                                     </div>
                                     {/* Success message */}
