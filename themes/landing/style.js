@@ -13,5 +13,7 @@ const Style = () => {
 
   `}</style>
 }
-
+html{
+  scroll-behavior: smooth;
+}
 export { Style }
