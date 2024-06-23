@@ -54,7 +54,7 @@ export default function Footer() {
                         <h6 className="text-gray-800 font-medium mb-2">产品</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Astrum</a>
+                                <a href="https://www.astrumspace.top/project" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Astrum</a>
                             </li>
                             <li className="mb-2">
                                 {/* <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Vercel</a> */}
