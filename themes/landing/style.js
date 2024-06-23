@@ -11,9 +11,11 @@ const Style = () => {
       text-color: red;
     }
 
-  `}</style>
-}
-html{
+    html{
   scroll-behavior: smooth;
 }
+
+  `}</style>
+}
+
 export { Style }
