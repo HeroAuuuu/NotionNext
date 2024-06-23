@@ -80,6 +80,7 @@ export default function Footer() {
                             </li>
                             <li className="mb-2">
                                 <a href="https://support.astrumspace.top/bang-zhu/bang-zhu-wen-dang" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">帮助文档</a>
+                          </li>
                         </ul>
                     </div>
 
