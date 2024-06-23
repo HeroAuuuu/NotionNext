@@ -4,16 +4,22 @@ const CONFIG = {
   LANDING_HEADER_BUTTON_1_URL: '/project',
 
   LANDING_HEADER_BUTTON_2_TITLE: '更新',
-  LANDING_HEADER_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext',
+  LANDING_HEADER_BUTTON_2_URL: 'https://support.astrumspace.top/',
 
   LANDING_HEADER_BUTTON_3_TITLE: '定价',
   LANDING_HEADER_BUTTON_3_URL: 'https://www.astrumspace.top/#pricing',
   
   LANDING_HEADER_BUTTON_4_TITLE: '帮助',
-  LANDING_HEADER_BUTTON_4_URL: 'https://github.com/tangly1024/NotionNext',
+  LANDING_HEADER_BUTTON_4_URL: 'https://support.astrumspace.top/bang-zhu/bang-zhu-wen-dang',
 
   LANDING_HEADER_BUTTON_5_TITLE: '下载',
-  LANDING_HEADER_BUTTON_5_URL: 'https://blog.tangly1024.com/',
+  LANDING_HEADER_BUTTON_5_URL: '/download',
+
+  LANDING_HEADER_BUTTON_5_TITLE: '联系我们',
+  LANDING_HEADER_BUTTON_5_URL: '/contact',
+
+  LANDING_HEADER_BUTTON_5_TITLE: '状态',
+  LANDING_HEADER_BUTTON_5_URL: '/state',
 
   // 首页大图英雄板块
   LANDING_HERO_TITLE_1: 'Astrum',
