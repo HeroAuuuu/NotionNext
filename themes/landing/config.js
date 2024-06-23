@@ -85,7 +85,7 @@ const CONFIG = {
 
   LANDING_PRICING_3_TITLE: 'Business',
   LANDING_PRICING_3_PRICE: '￥99.0/月',
-  LANDING_PRICING_3_CONTENT: '最为强大、丰富的功能,VIP技术支持服务,商用许可证,无限制使用,抢先体验,定制功能，付费软件使用权',
+  LANDING_PRICING_3_CONTENT: '最为强大、丰富的功能,VIP技术支持服务,商用许可证,无限制使用,抢先体验,定制功能,付费软件使用权',
   LANDING_PRICING_3_BUTTON: '联系销售',
   LANDING_PRICING_3_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
