@@ -32,12 +32,9 @@ export default function Features() {
         <div className="pt-12 md:pt-20">
 
           {/* Section header */}
-
-          <div className="max-w-3xl mx-auto text-custom-blue pb-12 md:pb-16">
-            <h1 className="h3 mb-4 text-custom-blue">{siteConfig('LANDING_FEATURES_HEADER_0', null, CONFIG)}</h1>
-          </div>
   
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
+            <h1 className="h5 mb-4 text-custom-blue">{siteConfig('LANDING_FEATURES_HEADER_0', null, CONFIG)}</h1>
             <h1 className="h2 mb-4 dark:text-white">{siteConfig('LANDING_FEATURES_HEADER_1', null, CONFIG)}</h1>
             <p className="text-xl text-gray-600 dark:text-gray-400 leading-relaxed" dangerouslySetInnerHTML={{ __html: siteConfig('LANDING_FEATURES_HEADER_1_P', null, CONFIG) }}></p>
           </div>
