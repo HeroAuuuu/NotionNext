@@ -76,10 +76,10 @@ export default function Footer() {
                         <h6 className="text-gray-800 font-medium mb-2">资源</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="https://support.astrumspace.top/" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">技术文档</a>
+                                <a href="https://support.astrumspace.top/develop/api" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">技术文档</a>
                             </li>
                             <li className="mb-2">
-                                <a href="https://support.astrumspace.top/bang-zhu/bang-zhu-wen-dang" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">帮助文档</a>
+                                <a href="https://support.astrumspace.top/help/helplog" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">帮助文档</a>
                           </li>
                         </ul>
                     </div>
