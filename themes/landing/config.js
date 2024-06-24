@@ -10,7 +10,7 @@ const CONFIG = {
   LANDING_HEADER_BUTTON_3_URL: 'https://www.astrumspace.top/#pricing',
   
   LANDING_HEADER_BUTTON_4_TITLE: '帮助',
-  LANDING_HEADER_BUTTON_4_URL: 'https://support.astrumspace.top/bang-zhu/bang-zhu-wen-dang',
+  LANDING_HEADER_BUTTON_4_URL: 'https://support.astrumspace.top/help/helplog',
 
   LANDING_HEADER_BUTTON_5_TITLE: '下载',
   LANDING_HEADER_BUTTON_5_URL: '/download',
