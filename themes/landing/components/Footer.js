@@ -92,10 +92,7 @@ export default function Footer() {
                                 <a href="https://www.astrumspace.top/" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">主页</a>
                             </li>
                             <li className="mb-2">
-                                <a href="https://www.astrumspace.top/about" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">关于我们</a>
-                            </li>
-                            <li className="mb-2">
-                                <a href="https://www.astrumspace.top/#pricing" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">价格</a>
+                                <a href="https://www.astrumspace.top/#pricing" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">定价</a>
                             </li>
                             <li className="mb-2">
                                 <a href="https://www.astrumspace.top/privacy-policy" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">隐私政策</a>
