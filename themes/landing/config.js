@@ -75,7 +75,7 @@ const CONFIG = {
   LANDING_POST_REDIRECT_URL: process.env.NEXT_PUBLIC_POST_REDIRECT_URL || 'https://blog.tangly1024.com', // 重定向网站地址
 
   LANDING_PRICING_TITLE: '定价',
-  LANDING_PRICING_P: '截至目前，Dawn&Dawnight 与 Astrum 所开发的标准版软件均免费，但您仍然可以选择以支持 Astrum 的开发工作',
+  LANDING_PRICING_P: '截至目前，Dawn&Dawnight 与 Astrum 所开发的标准版软件均免费，但您仍然可以选择捐助我们以支持 Astrum 的开发工作',
 
   LANDING_PRICING_1_TITLE: 'Free',
   LANDING_PRICING_1_PRICE: '￥0/月',
@@ -83,17 +83,17 @@ const CONFIG = {
   LANDING_PRICING_1_BUTTON: '开始体验',
   LANDING_PRICING_1_URL: 'https://www.astrumspace.top/project',
 
-  LANDING_PRICING_2_TITLE: 'Pro',
-  LANDING_PRICING_2_PRICE: '￥14.9/月',
-  LANDING_PRICING_2_CONTENT: '更为强大、丰富的功能,邮件支持服务,抢先体验,无限制使用',
-  LANDING_PRICING_2_BUTTON: '立即购买',
+  LANDING_PRICING_2_TITLE: 'Sponsor',
+  LANDING_PRICING_2_PRICE: '金额不限',
+  LANDING_PRICING_2_CONTENT: '更为强大、丰富的功能,抢先体验,无限制使用',
+  LANDING_PRICING_2_BUTTON: '立即捐助',
   LANDING_PRICING_2_URL: 'https://afdian.net/a/Astrum',
 
-  LANDING_PRICING_3_TITLE: 'Business',
-  LANDING_PRICING_3_PRICE: '￥99.0/月',
-  LANDING_PRICING_3_CONTENT: '最为强大、丰富的功能,VIP技术支持服务,商用许可证,无限制使用,抢先体验,定制功能,付费软件使用权',
-  LANDING_PRICING_3_BUTTON: '立即购买',
-  LANDING_PRICING_3_URL: 'https://afdian.net/a/Astrum',
+  LANDING_PRICING_3_TITLE: 'Cooperation',
+  LANDING_PRICING_3_PRICE: '定制',
+  LANDING_PRICING_3_CONTENT: '与我们进行合作,最为强大、丰富的功能,无限制使用,抢先体验,邮件支持服务',
+  LANDING_PRICING_3_BUTTON: '联系我们',
+  LANDING_PRICING_3_URL: 'support@astrumspace.top',
 
   LANDING_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_LANDING_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
