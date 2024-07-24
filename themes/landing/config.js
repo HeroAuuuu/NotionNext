@@ -61,15 +61,15 @@ const CONFIG = {
   LANDING_FEATURES_BLOCK_6_P: '我们会提供技术支持服务，确保您遇到问题时或有功能建议时都能及时获得帮助和支持',
 
   // 感言
-  LANDING_TESTIMONIALS_HEADER: '目前已拥有 8 个游戏及软件的辅助工具，未来我们也将不断推出更多的工具软件',
-  LANDING_TESTIMONIALS_P: '自2020年以来已由 Dawn&Dawnight 开发了7款工具，2023-2024由 Astrum 开发了1款工具，在未来将由 Astrum (前Dawn) 开发更多强大可靠的软件',
+  LANDING_TESTIMONIALS_HEADER: '目前已拥有 9 个游戏及软件的辅助工具，未来我们也将不断推出更多的工具软件',
+  LANDING_TESTIMONIALS_P: '自2020年以来已由 Dawn&Dawnight 开发了7款工具，2023-2024由 Astrum 开发了2款工具，在未来将由 Astrum (前Dawn) 开发更多强大可靠的软件',
 
   LANDING_TESTIMONIALS_AVATAR: 'https://img.imesong.com/file/b7d2abe9069f92f28255e.png',
   LANDING_TESTIMONIALS_NICKNAME: 'Astrum 最新推出的产品',
   LANDING_TESTIMONIALS_ID: 'Astrum For Cloud Class',
   LANDING_TESTIMONIALS_SOCIAL_NAME: 'Code: Orion 猎户座',
   LANDING_TESTIMONIALS_SOCIAL_URL: 'https://www.astrumspace.top/download',
-  LANDING_TESTIMONIALS_WORD: '由 Astrum 开发的 RJ云课堂 辅助工具，它拥有快速关闭云课堂、解除控制、破译云密码、卸载云课堂等强大的功能，为用户提供无与伦比的使用体验',
+  LANDING_TESTIMONIALS_WORD: '由 Astrum 开发的 云课堂 辅助工具，它拥有快速关闭云课堂、解除控制、修改云课堂密码等强大的功能，为用户提供无与伦比的使用体验',
 
   LANDING_POST_REDIRECT_ENABLE: process.env.NEXT_PUBLIC_POST_REDIRECT_ENABLE || false, // 是否开启文章地址重定向 ； 用于迁移旧网站域名
   LANDING_POST_REDIRECT_URL: process.env.NEXT_PUBLIC_POST_REDIRECT_URL || 'https://blog.tangly1024.com', // 重定向网站地址
