@@ -93,7 +93,7 @@ const CONFIG = {
   LANDING_PRICING_3_PRICE: '定制',
   LANDING_PRICING_3_CONTENT: '与我们进行合作,最为强大、丰富的功能,无限制使用,抢先体验,邮件支持服务',
   LANDING_PRICING_3_BUTTON: '联系我们',
-  LANDING_PRICING_3_URL: 'support@astrumspace.top',
+  LANDING_PRICING_3_URL: 'mailto:support@astrumspace.top',
 
   LANDING_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_LANDING_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
