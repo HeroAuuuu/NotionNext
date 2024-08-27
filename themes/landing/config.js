@@ -87,7 +87,7 @@ const CONFIG = {
   LANDING_PRICING_2_PRICE: '金额不限',
   LANDING_PRICING_2_CONTENT: '为爱发电,无限制使用',
   LANDING_PRICING_2_BUTTON: '立即捐助',
-  LANDING_PRICING_2_URL: 'https://afdian.net/a/Astrum',
+  LANDING_PRICING_2_URL: 'https://afdian.com/a/Astrum',
 
   LANDING_PRICING_3_TITLE: 'Cooperation',
   LANDING_PRICING_3_PRICE: '定制',
