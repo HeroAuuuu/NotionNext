@@ -64,7 +64,7 @@ const CONFIG = {
   LANDING_TESTIMONIALS_HEADER: '目前已拥有 9 个游戏及软件的辅助工具，未来我们也将不断推出更多的工具软件',
   LANDING_TESTIMONIALS_P: '自2020年以来已由 Dawn&Dawnight 开发了7款工具，2023-2024由 Astrum 开发了4款工具，在未来将由 Astrum (前Dawn) 开发更多强大可靠的软件',
 
-  LANDING_TESTIMONIALS_AVATAR: 'https://img.zjcmxx.cn/app/hide.php?key=T3F5cmtud2VMRHdGZFRuWGFuQXBSaHRaaFAzYm03bFI=',
+  LANDING_TESTIMONIALS_AVATAR: 'https://i.ibb.co/1vTLFND/Astrum.png',
   LANDING_TESTIMONIALS_NICKNAME: 'Astrum 最新推出的产品',
   LANDING_TESTIMONIALS_ID: 'Astrum For Cloud Class',
   LANDING_TESTIMONIALS_SOCIAL_NAME: 'Code: Orion 猎户座',
