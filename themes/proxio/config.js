@@ -7,8 +7,8 @@ const CONFIG = {
 
     // 英雄区块导航
     PROXIO_HERO_ENABLE: true, // 开启英雄区
-    PROXIO_HERO_TITLE_1: 'Astrum - 专注强大工具开发的创新团队	', // 英雄区文字
-    PROXIO_HERO_TITLE_2: '通过无与伦比的功能，成倍提升用户数字体验价值	', // 英雄区文字
+    PROXIO_HERO_TITLE_1: 'Astrum - 专注强大工具开发的创新团队', // 英雄区文字
+    PROXIO_HERO_TITLE_2: '通过无与伦比的功能，成倍提升用户数字体验价值', // 英雄区文字
     // 英雄区两个按钮，如果TEXT留空则隐藏按钮
     PROXIO_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
     PROXIO_HERO_BUTTON_1_URL:
@@ -56,7 +56,7 @@ const CONFIG = {
     PROXIO_FEATURE_2_TEXT_1: '与每一位用户紧密合作，融合反馈意见，打造超越预期的设计',
 
     PROXIO_FEATURE_3_ICON_CLASS: 'fa-solid fa-search',
-    PROXIO_FEATURE_2_ICON_IMG_URL: '',
+    PROXIO_FEATURE_3_ICON_IMG_URL: '',
     PROXIO_FEATURE_3_TITLE_1: '细节把控',
     PROXIO_FEATURE_3_TEXT_1: '精益求精雕琢每个功能，确保成品精致有效，令人过目难忘',
 
