@@ -65,15 +65,15 @@ const CONFIG = {
 
     // 首页生涯区块
     PROXIO_CAREER_ENABLE: true, // 区块开关
-    PROXIO_CAREER_TITLE: '生涯',
+    PROXIO_CAREER_TITLE: '进程',
     PROXIO_CAREER_TEXT:
-        '以下是我的职业生涯',
+        'Astrum的发展进程',
 
     // 生涯内容卡牌 ，title是标题 ，bio是备注，text是详情
     PROXIO_CAREERS: [
-        { title: 'Freelance Architect', bio: '2016-2020', text: 'As a freelance architect, I worked on a range of residential and commercial projects, balancing form and function. I collaborated with clients and contractors to transform concepts into reality, ensuring each design was both aesthetically pleasing and structurally sound.' },
-        { title: 'Product Designer at Spotify', bio: '2020-2022', text: 'At Spotify, I helped shape innovative features for millions of users globally. My focus was on creating seamless music discovery experiences, enhancing user interfaces, and optimizing cross-platform navigation, which led to an improved product flow and increased user satisfaction.' },
-        { title: 'Freelance Product Designer', bio: '2022-Now', text: 'Now I design user-centric products that align with client visions. As a freelance product designer, I collaborate with startups and established companies, crafting solutions that elevate user experiences and increase engagement across both digital and physical interfaces.' }
+        { title: 'Dawn 时期', bio: '2020-2021', text: '2020年底，Dawn 成立且开发了第一个项目 “Dawn For Coh2”，一款专为《Company of Heroes 2（英雄连2）》开发的工具，帮助玩家更方便、更快捷的安装游戏的汉化与补丁，赢得了玩家的诸多好评。次年年初 “Dawn For The Crew” 完成开发，一款专为《The Crew 2（飙酷车神2）》开发的辅助软件，提供了强大的功能支持。' },
+        { title: 'Dawnight 时期', bio: '2021-2024', text: '黎明亦或黑暗。2021年，Dawn更名为Dawnight。在此期间，Dawnight开发了《Apex Legends》《bilibili》《Dingtalk（钉钉）》《Sons Of The Forest（森林之子）》《Together Farm（一起玩农场）》等软件与游戏的辅助工具，为用户提供了诸如用户数据分析、全自动化签到与打卡、全自动AKF、游戏存档修改器等强力功能。' },
+        { title: 'Astrum 时期', bio: '2024-至今', text: '2024年，Astrum 成立并发布 “Astrum For Cloud Class”。在这一年多的时间里，我们很高兴让极域&云课堂反控工具取得了质的飞跃。其提供的强大的、独一无二的功能令我们叹为观止。此外还开发了PyPubg与PyATT-Win。今后，Astrum将继续专注于开发更多具有创新性的软件工具，为大家带更好的使用体验。' }
     ],
 
     // 首页用户测评区块
@@ -81,22 +81,22 @@ const CONFIG = {
     PROXIO_TESTIMONIALS_TITLE: '用户反馈',
     PROXIO_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
     PROXIO_TESTIMONIALS_TEXT_2:
-        '数千位站长选择用NotionNext搭建他们的网站,通过帮助手册、交流社群以及技术咨询，大家成功上线了自己的网站',
+        '无数用户选择使用Astrum，通过帮助手册、交流平台以及邮件咨询，达成了自己满意的效果',
 
     // 用户测评处的跳转按钮
     PROXIO_TESTIMONIALS_BUTTON_URL: '/about',
-    PROXIO_TESTIMONIALS_BUTTON_TEXT: '联系我',
+    PROXIO_TESTIMONIALS_BUTTON_TEXT: '现在开始！',
 
     // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
     PROXIO_TESTIMONIALS_ITEMS: [
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '感谢大佬的方法。之前尝试过Super、Potion等国外的第三方平台，实现效果一般，个性化程度远不如这个方法，已经用起来了！ ',
+                '感谢大佬的开源。开源项目的算法和大佬的解答让我学到了很多，希望大佬能开发更多的项目！！',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
-                'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
-            PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Ryan_G',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Ryan`Log 站长',
-            PROXIO_TESTIMONIALS_ITEM_URL: 'https://blog.gaoran.xyz/'
+                'https://i1.hdslb.com/bfs/face/b718d2ededa4faeaeb4aef3db39f88a22069e082.jpg@128w_128h_1c_1s.webp',
+            PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'IAPymodem',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Astrum用户',
+            PROXIO_TESTIMONIALS_ITEM_URL: ''
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
