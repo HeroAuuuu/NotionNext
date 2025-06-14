@@ -162,7 +162,7 @@ const CONFIG = {
     PROXIO_ABOUT_TEXT_1: 'Astrum 前身最早成立于2020年底，致力于开发高效便捷的游戏工具，旨在提升用户的游戏体验和效率',
     PROXIO_ABOUT_TEXT_2:
         '为何不加入我们呢？',
-    PROXIO_ABOUT_PHOTO_URL: '/avatar.png',
+    PROXIO_ABOUT_PHOTO_URL: 'https://pic1.imgdb.cn/item/684d9d8158cb8da5c84c6bce.png',
     PROXIO_ABOUT_KEY_1: '成立年限',
     PROXIO_ABOUT_VAL_1: '5年+',
     PROXIO_ABOUT_KEY_2: '用户',
