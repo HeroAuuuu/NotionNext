@@ -61,7 +61,7 @@ const CONFIG = {
     PROXIO_FEATURE_3_TEXT_1: '精益求精雕琢每个功能，确保成品精致有效，令人过目难忘',
 
     PROXIO_FEATURE_BUTTON_TEXT: '了解更多', // 按钮文字
-    PROXIO_FEATURE_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 按钮跳转
+    PROXIO_FEATURE_BUTTON_URL: '/project', // 按钮跳转
 
     // 首页生涯区块
     PROXIO_CAREER_ENABLE: true, // 区块开关
@@ -84,7 +84,7 @@ const CONFIG = {
         '无数用户选择使用Astrum，通过帮助手册、交流平台以及邮件咨询，达成了自己满意的效果',
 
     // 用户测评处的跳转按钮
-    PROXIO_TESTIMONIALS_BUTTON_URL: '/about',
+    PROXIO_TESTIMONIALS_BUTTON_URL: '/download',
     PROXIO_TESTIMONIALS_BUTTON_TEXT: '现在开始！',
 
     // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
