@@ -12,7 +12,7 @@ const CONFIG = {
     // 英雄区两个按钮，如果TEXT留空则隐藏按钮
     PROXIO_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
     PROXIO_HERO_BUTTON_1_URL:
-        'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
+        '/download', // 英雄区按钮
     PROXIO_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
     PROXIO_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
     PROXIO_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
@@ -172,7 +172,7 @@ const CONFIG = {
     PROXIO_ABOUT_KEY_4: '累积创作时长（小时）',
     PROXIO_ABOUT_VAL_4: '1000+',
 
-    PROXIO_ABOUT_BUTTON_URL: '',
+    PROXIO_ABOUT_BUTTON_URL: '/download',
     PROXIO_ABOUT_BUTTON_TEXT: '立即体验',
 
     // 横向滚动文字
@@ -198,40 +198,39 @@ const CONFIG = {
     // 页脚菜单
     PROXIO_FOOTER_LINKS: [
         {
-            name: '友情链接',
+            name: '产品',
             menus: [
                 {
-                    title: 'Tangly的学习笔记',
-                    href: 'https://blog.tangly1024.com'
-                },
-                {
-                    title: 'NotionNext',
-                    href: 'https://www.tangly1024.com'
+                    title: 'Astrum',
+                    href: '/project'
                 }
             ]
         },
+        
         {
-            name: '开发者',
+            name: '资源',
             menus: [
-                { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
+                { title: '技术文档', href: 'https://astrum-3.gitbook.io/main/help/helplog' },
                 {
-                    title: '开发帮助',
-                    href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
-                },
-                {
-                    title: '功能反馈',
-                    href: 'https://github.com/tangly1024/NotionNext/issues/new/choose'
-                },
-                {
-                    title: '技术讨论',
-                    href: 'https://github.com/tangly1024/NotionNext/discussions'
-                },
-                {
-                    title: '关于作者',
-                    href: 'https://blog.tangly1024.com/about'
+                    title: '帮助文档',
+                    href: 'https://astrum-3.gitbook.io/'
                 }
             ]
-        }],
+        },
+            {
+            name: '团队',
+            menus: [
+                {
+                    title: '服务条款',
+                    href: '/terms-of-use'
+                },
+                {
+                    title: '隐私政策',
+                    href: '/privacy-policy'
+                }
+            ]
+        },
+    ],
 
     PROXIO_FOOTER_BLOG_LATEST_TITLE: '最新文章',
 
