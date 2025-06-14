@@ -96,7 +96,7 @@ const CONFIG = {
                 'https://pic1.imgdb.cn/item/684d911e58cb8da5c84c642c.png',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'IAPymodem',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Astrum 用户',
-            PROXIO_TESTIMONIALS_ITEM_URL: ''
+            PROXIO_TESTIMONIALS_ITEM_URL: 'javascript:void(0);'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
@@ -105,7 +105,7 @@ const CONFIG = {
                 'https://pic1.imgdb.cn/item/684d91ef58cb8da5c84c648c.jpg',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'GuaeWRin',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Company of Heroes 2 玩家',
-            PROXIO_TESTIMONIALS_ITEM_URL: ''
+            PROXIO_TESTIMONIALS_ITEM_URL: 'javascript:void(0);'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
@@ -114,7 +114,7 @@ const CONFIG = {
                 '/avatar.png',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: '史玉珍_zZ',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Pubg 玩家',
-            PROXIO_TESTIMONIALS_ITEM_URL: ''
+            PROXIO_TESTIMONIALS_ITEM_URL: 'javascript:void(0);'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
@@ -123,7 +123,7 @@ const CONFIG = {
                 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: '匿名用户',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Jiyu 用户',
-            PROXIO_TESTIMONIALS_ITEM_URL: ''
+            PROXIO_TESTIMONIALS_ITEM_URL: 'javascript:void(0);'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
@@ -132,7 +132,7 @@ const CONFIG = {
                 'https://pic1.imgdb.cn/item/684d951458cb8da5c84c65fd.png',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Lin',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'The Crew 2 玩家',
-            PROXIO_TESTIMONIALS_ITEM_URL: ''
+            PROXIO_TESTIMONIALS_ITEM_URL: 'javascript:void(0);'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT: '用好久了，太感谢了',
@@ -140,7 +140,7 @@ const CONFIG = {
                 '/avatar.png',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Cilydk',
             PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Astrum 用户',
-            PROXIO_TESTIMONIALS_ITEM_URL: ''
+            PROXIO_TESTIMONIALS_ITEM_URL: 'javascript:void(0);'
         }
     ],
 
@@ -162,7 +162,7 @@ const CONFIG = {
     PROXIO_ABOUT_TEXT_1: 'Astrum 前身最早成立于2020年底，致力于开发高效便捷的游戏工具，旨在提升用户的游戏体验和效率',
     PROXIO_ABOUT_TEXT_2:
         '为何不加入我们呢？',
-    PROXIO_ABOUT_PHOTO_URL: 'https://pic1.imgdb.cn/item/684d9d8158cb8da5c84c6bce.png',
+    PROXIO_ABOUT_PHOTO_URL: 'https://pic1.imgdb.cn/item/684d9eb158cb8da5c84c6c72.png',
     PROXIO_ABOUT_KEY_1: '成立年限',
     PROXIO_ABOUT_VAL_1: '5年+',
     PROXIO_ABOUT_KEY_2: '用户',
@@ -173,7 +173,7 @@ const CONFIG = {
     PROXIO_ABOUT_VAL_4: '1000+',
 
     PROXIO_ABOUT_BUTTON_URL: '',
-    PROXIO_ABOUT_BUTTON_TEXT: '',
+    PROXIO_ABOUT_BUTTON_TEXT: '立即体验',
 
     // 横向滚动文字
     PROXIO_BRANDS_ENABLE: true, // 滚动文字
@@ -188,7 +188,8 @@ const CONFIG = {
         'Mythware',
         'Together Farm',
         'Arknights',
-        'PUBG'
+        'PUBG',
+        'And more'
     ],
 
     PROXIO_FOOTER_SLOGAN: '通过无与伦比的功能，成倍提升用户数字体验价值',
