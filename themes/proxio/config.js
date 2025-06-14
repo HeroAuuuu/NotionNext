@@ -39,26 +39,26 @@ const CONFIG = {
 
     // 特性区块
     PROXIO_FEATURE_ENABLE: true, // 特性区块开关
-    PROXIO_FEATURE_TITLE: '为什么选我',
-    PROXIO_FEATURE_TEXT_1: '我能让您的项目焕发光彩',
+    PROXIO_FEATURE_TITLE: '我们的优势',
+    PROXIO_FEATURE_TEXT_1: 'Astrum为用户带来更强劲的选择',
     PROXIO_FEATURE_TEXT_2:
-        '丰富的案例经验，专业的技术服务，优质的沟通效率',
+        '独一无二的强大功能，日新月异的更新迭代，层出不穷的新奇创意',
 
     // 特性1
     PROXIO_FEATURE_1_ICON_CLASS: 'fa-solid fa-stopwatch', // fas图标
     PROXIO_FEATURE_1_ICON_IMG_URL: '', // 图片图标选填，默认是fas图标，如果需要图片图标可以填写图片地址，示例/avatar.png
-    PROXIO_FEATURE_1_TITLE_1: '高效工作流程',
-    PROXIO_FEATURE_1_TEXT_1: '精简的设计流程确保快速交付，在紧迫的工期下仍能保证品质与细节不打折扣。',
+    PROXIO_FEATURE_1_TITLE_1: '长期的支持维护',
+    PROXIO_FEATURE_1_TEXT_1: '为软件提供长久的更新维护，直至稳定',
 
     PROXIO_FEATURE_2_ICON_CLASS: 'fa-solid fa-comments',
     PROXIO_FEATURE_2_ICON_IMG_URL: '', 
-    PROXIO_FEATURE_2_TITLE_1: '协作式流程',
-    PROXIO_FEATURE_2_TEXT_1: '与你紧密合作，融合反馈意见，打造超越预期的设计',
+    PROXIO_FEATURE_2_TITLE_1: '开放的意见接纳',
+    PROXIO_FEATURE_2_TEXT_1: '与每一位用户紧密合作，融合反馈意见，打造超越预期的设计',
 
     PROXIO_FEATURE_3_ICON_CLASS: 'fa-solid fa-search',
     PROXIO_FEATURE_2_ICON_IMG_URL: '',
     PROXIO_FEATURE_3_TITLE_1: '细节把控',
-    PROXIO_FEATURE_3_TEXT_1: '精益求精雕琢每个元素，确保成品精致统一，令人过目难忘',
+    PROXIO_FEATURE_3_TEXT_1: '精益求精雕琢每个功能，确保成品精致有效，令人过目难忘',
 
     PROXIO_FEATURE_BUTTON_TEXT: '了解更多', // 按钮文字
     PROXIO_FEATURE_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 按钮跳转
