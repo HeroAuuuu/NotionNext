@@ -25,12 +25,12 @@ const CONFIG = {
     // 文章区块
     PROXIO_BLOG_ENABLE: true, // 首页博文区块开关
     PROXIO_BLOG_TITLE: '作品',
-    PROXIO_BLOG_COUNT: 4, // 首页博文区块展示前4篇文章
+    PROXIO_BLOG_COUNT: 2, // 首页博文区块展示前4篇文章
     PROXIO_BLOG_TEXT_1: 'Astrum的最新动态',
 
     // 区块默认内容显示文章的summary文本，但也支持用自定义图片或logo德国替换掉占位显示内容
-    PROXIO_BLOG_PLACEHOLDER_IMG_URL_1: '', // 填写要替换成的图片，支持图床或直接上传到项目中，示例  /images/feature-1.webp
-    PROXIO_BLOG_PLACEHOLDER_IMG_URL_2: '',
+    PROXIO_BLOG_PLACEHOLDER_IMG_URL_1: 'https://pic1.imgdb.cn/item/684d81f058cb8da5c84c5a22.png', // 填写要替换成的图片，支持图床或直接上传到项目中，示例  /images/feature-1.webp
+    PROXIO_BLOG_PLACEHOLDER_IMG_URL_2: 'https://pic1.imgdb.cn/item/684d81f058cb8da5c84c5a22.png',
     PROXIO_BLOG_PLACEHOLDER_IMG_URL_3: '',
     PROXIO_BLOG_PLACEHOLDER_IMG_URL_4: '',
 
