@@ -135,11 +135,11 @@ const CONFIG = {
             PROXIO_TESTIMONIALS_ITEM_URL: 'javascript:void(0);'
         },
         {
-            PROXIO_TESTIMONIALS_ITEM_TEXT: '用好久了，太感谢了',
+            PROXIO_TESTIMONIALS_ITEM_TEXT: 'xcx到此一游',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
-                '/avatar.png',
-            PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Cilydk',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Astrum 用户',
+                'https://pic1.imgdb.cn/item/68dbd084c5157e1a884ae6ea.jpg',
+            PROXIO_TESTIMONIALS_ITEM_NICKNAME: '花开富贵',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Astrum 特别邀请',
             PROXIO_TESTIMONIALS_ITEM_URL: 'javascript:void(0);'
         }
     ],
