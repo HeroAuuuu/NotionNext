@@ -135,7 +135,7 @@ const CONFIG = {
             PROXIO_TESTIMONIALS_ITEM_URL: 'javascript:void(0);'
         },
         {
-            PROXIO_TESTIMONIALS_ITEM_TEXT: 'xcx到此一游',
+            PROXIO_TESTIMONIALS_ITEM_TEXT: '特别推荐',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 'https://pic1.imgdb.cn/item/68dbd084c5157e1a884ae6ea.jpg',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: '花开富贵',
