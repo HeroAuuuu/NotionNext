@@ -166,7 +166,7 @@ const CONFIG = {
     PROXIO_ABOUT_KEY_1: '成立年限',
     PROXIO_ABOUT_VAL_1: '5年+',
     PROXIO_ABOUT_KEY_2: '用户',
-    PROXIO_ABOUT_VAL_2: '1000+',
+    PROXIO_ABOUT_VAL_2: '3000+',
     PROXIO_ABOUT_KEY_3: '开发项目',
     PROXIO_ABOUT_VAL_3: '10+',
     PROXIO_ABOUT_KEY_4: '累积创作时长（小时）',
@@ -178,6 +178,7 @@ const CONFIG = {
     // 横向滚动文字
     PROXIO_BRANDS_ENABLE: true, // 滚动文字
     PROXIO_BRANDS: [
+        'Climber Animals Together',
         'Company of Heroes 2',
         'The Crew 2',
         'Apex Legends',
