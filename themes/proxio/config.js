@@ -7,10 +7,10 @@ const CONFIG = {
 
     // 英雄区块导航
     PROXIO_HERO_ENABLE: true, // 开启英雄区
-    PROXIO_HERO_TITLE_1: 'Astrum - 专注强大工具开发的创新团队', // 英雄区文字
-    PROXIO_HERO_TITLE_2: '通过无与伦比的功能，成倍提升用户数字体验价值', // 英雄区文字
+    PROXIO_HERO_TITLE_1: 'Astrum - 专注于深度系统交互与智能自动化的先锋架构团队', // 英雄区文字
+    PROXIO_HERO_TITLE_2: '提供从底层逻辑重构到全链路自动化的前沿工具集，重塑数字环境控制权', // 英雄区文字
     // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-    PROXIO_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
+    PROXIO_HERO_BUTTON_1_TEXT: '开启探索', // 英雄区按钮
     PROXIO_HERO_BUTTON_1_URL:
         '/download', // 英雄区按钮
     PROXIO_HERO_BUTTON_2_TEXT: '', // 英雄区按钮
@@ -40,7 +40,7 @@ const CONFIG = {
     // 特性区块
     PROXIO_FEATURE_ENABLE: true, // 特性区块开关
     PROXIO_FEATURE_TITLE: '我们的优势',
-    PROXIO_FEATURE_TEXT_1: 'Astrum为用户带来更强劲的选择',
+    PROXIO_FEATURE_TEXT_1: '为复杂运行环境提供极简、硬核的解决方案',
     PROXIO_FEATURE_TEXT_2:
         '独一无二的强大功能，日新月异的更新迭代，层出不穷的新奇创意',
 
@@ -71,10 +71,10 @@ const CONFIG = {
 
     // 生涯内容卡牌 ，title是标题 ，bio是备注，text是详情
     PROXIO_CAREERS: [
-        { title: 'Dawn 时期', bio: '2020-2021', text: '2020年底，Dawn 成立且开发了第一个项目 “Dawn For Coh2”，一款专为《Company of Heroes 2（英雄连2）》开发的工具，帮助玩家更方便、更快捷的安装游戏的汉化与补丁，赢得了玩家的诸多好评。次年年初 “Dawn For The Crew 2” 完成开发，一款专为《The Crew 2（飙酷车神2）》开发的辅助软件，提供了强大的功能支持。' },
-        { title: 'Dawnight 时期', bio: '2021-2024', text: '黎明亦或黑暗。2021年，Dawn更名为Dawnight。在此期间，Dawnight开发了《Apex Legends》《bilibili》《Dingtalk（钉钉）》《Sons Of The Forest（森林之子）》《Together Farm（一起玩农场）》等软件与游戏的辅助工具，为用户提供了诸如用户数据分析、全自动化签到与打卡、全自动AKF、游戏存档修改器等强力功能。' },
-        { title: 'Astrum 时期', bio: '2024-至今', text: '2024年，Astrum 成立并发布 “Astrum For Cloud Class”。在这一年多的时间里，我们很高兴让极域&云课堂反控工具取得了质的飞跃。其提供的强大的、独一无二的功能令我们叹为观止。此外我们还开发了PyPubg与PyATT-Win。今后，Astrum将继续专注于开发更多具有创新性的软件工具，为大家带更好的使用体验。' }
-    ],
+    { title: 'Dawn 纪元：效率体系启航', bio: '2020-2021', text: 'Dawn 团队初创期，以解决用户繁琐操作为导向。推出了 Centaurus (CoH2 部署套件) 与 Phoenix 修改)，并研发了 Sagittarius (The Crew 2)，实现了早期基于底层反检测机制的自动化挂机系统。' },
+    { title: 'Dawnight 纪元：技术底座升级', bio: '2021-2024', text: '全面深化在复杂环境下的自动化与安全防护技术。期间推出了 Cancer (Apex Legends)，进一步完善了反检测框架，并扩大了目标生态的支持范围，为后续的系统级工具开发奠定了坚实基础。' },
+    { title: 'Astrum 纪元：多维生态构建', bio: '2024-至今', text: '团队全面升级为 Astrum，技术栈实现质的飞跃。我们不仅推出了高度集成的 Orion-Pro (云课堂/极域多维反控系统) 实现网络层与系统级的双重压制，更发布了 PyPubg 与 PyATT-Win，正式将深度学习视觉识别库与自动化调度平台引入核心业务线。' }
+],
 
     // 首页用户测评区块
     PROXIO_TESTIMONIALS_ENABLE: true, // 测评区块开关
@@ -178,20 +178,17 @@ const CONFIG = {
     // 横向滚动文字
     PROXIO_BRANDS_ENABLE: true, // 滚动文字
     PROXIO_BRANDS: [
-        'Climber Animals Together',
-        'Company of Heroes 2',
-        'The Crew 2',
-        'Apex Legends',
-        'Bilibili',
-        'Dingtalk',
-        'Sons Of The Forest',
-        'Cloud Class',
-        'Mythware',
-        'Together Farm',
-        'Arknights',
-        'PUBG',
-        'And more'
-    ],
+    'Astrum | Orion-Pro',
+    'Astrum | PyATT-Win (AGPL 3.0)',
+    'Astrum | PyPubg Vision',
+    'Astrum | Climber Environment Control',
+    'Dawn | Cancer (Apex)',
+    'Dawn | Sagittarius (The Crew 2)',
+    'Dawn | Centaurus (CoH2)',
+    'Dawn | Phoenix (Together Farm)',
+    'OpenCV & PaddleOCR Integration',
+    'MAA (MaaAssistantArknights) Supported'
+],
 
     PROXIO_FOOTER_SLOGAN: '通过无与伦比的功能，成倍提升用户数字体验价值',
 
