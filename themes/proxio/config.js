@@ -166,10 +166,10 @@ const CONFIG = {
     PROXIO_ABOUT_KEY_1: '成立年限',
     PROXIO_ABOUT_VAL_1: '5年+',
     PROXIO_ABOUT_KEY_2: '用户',
-    PROXIO_ABOUT_VAL_2: '3000+',
+    PROXIO_ABOUT_VAL_2: '5000+',
     PROXIO_ABOUT_KEY_3: '开发项目',
     PROXIO_ABOUT_VAL_3: '10+',
-    PROXIO_ABOUT_KEY_4: '累积创作时长（小时）',
+    PROXIO_ABOUT_KEY_4: '累积付费用户',
     PROXIO_ABOUT_VAL_4: '1000+',
 
     PROXIO_ABOUT_BUTTON_URL: '/download',
