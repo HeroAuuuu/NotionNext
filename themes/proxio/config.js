@@ -7,8 +7,8 @@ const CONFIG = {
 
     // 英雄区块导航
     PROXIO_HERO_ENABLE: true, // 开启英雄区
-    PROXIO_HERO_TITLE_1: 'Astrum - 专注于深度系统交互与智能自动化的先锋架构团队', // 英雄区文字
-    PROXIO_HERO_TITLE_2: '提供从底层逻辑重构到全链路自动化的前沿工具集，重塑数字环境控制权', // 英雄区文字
+    PROXIO_HERO_TITLE_1: 'Astrum - 专注实用工具与桌面自动化的独立团队', // 英雄区文字
+    PROXIO_HERO_TITLE_2: '写点顺手、抗造的硬核工具，帮你砍掉繁琐操作，把时间留给自己', // 英雄区文字
     // 英雄区两个按钮，如果TEXT留空则隐藏按钮
     PROXIO_HERO_BUTTON_1_TEXT: '开启探索', // 英雄区按钮
     PROXIO_HERO_BUTTON_1_URL:
@@ -42,7 +42,7 @@ const CONFIG = {
     PROXIO_FEATURE_TITLE: '我们的优势',
     PROXIO_FEATURE_TEXT_1: '为复杂运行环境提供极简、硬核的解决方案',
     PROXIO_FEATURE_TEXT_2:
-        '独一无二的强大功能，日新月异的更新迭代，层出不穷的新奇创意',
+        '日新月异的更新迭代，层出不穷的新奇创意',
 
     // 特性1
     PROXIO_FEATURE_1_ICON_CLASS: 'fa-solid fa-stopwatch', // fas图标
@@ -53,12 +53,12 @@ const CONFIG = {
     PROXIO_FEATURE_2_ICON_CLASS: 'fa-solid fa-comments',
     PROXIO_FEATURE_2_ICON_IMG_URL: '', 
     PROXIO_FEATURE_2_TITLE_1: '开放的意见接纳',
-    PROXIO_FEATURE_2_TEXT_1: '与每一位用户紧密合作，融合反馈意见，打造超越预期的设计',
+    PROXIO_FEATURE_2_TEXT_1: '很多好功能都来自用户的提议，你的吐槽和建议我们都会认真看',
 
     PROXIO_FEATURE_3_ICON_CLASS: 'fa-solid fa-search',
     PROXIO_FEATURE_3_ICON_IMG_URL: '',
     PROXIO_FEATURE_3_TITLE_1: '细节把控',
-    PROXIO_FEATURE_3_TEXT_1: '精益求精雕琢每个功能，确保成品精致有效，令人过目难忘',
+    PROXIO_FEATURE_3_TEXT_1: '去掉冗余的包装，把核心操作做得顺手、轻量、运行稳定',
 
     PROXIO_FEATURE_BUTTON_TEXT: '了解更多', // 按钮文字
     PROXIO_FEATURE_BUTTON_URL: '/project', // 按钮跳转
@@ -71,9 +71,9 @@ const CONFIG = {
 
     // 生涯内容卡牌 ，title是标题 ，bio是备注，text是详情
     PROXIO_CAREERS: [
-    { title: 'Dawn 纪元：效率体系启航', bio: '2020-2021', text: 'Dawn 团队初创期，以解决用户繁琐操作为导向。推出了 Centaurus (CoH2 部署套件) 与 Phoenix 修改)，并研发了 Sagittarius (The Crew 2)，实现了早期基于底层反检测机制的自动化挂机系统。' },
-    { title: 'Dawnight 纪元：技术底座升级', bio: '2021-2024', text: '全面深化在复杂环境下的自动化与安全防护技术。期间推出了 Cancer (Apex Legends)，进一步完善了反检测框架，并扩大了目标生态的支持范围，为后续的系统级工具开发奠定了坚实基础。' },
-    { title: 'Astrum 纪元：多维生态构建', bio: '2024-至今', text: '团队全面升级为 Astrum，技术栈实现质的飞跃。我们不仅推出了高度集成的 Orion-Pro (云课堂/极域多维反控系统) 实现网络层与系统级的双重压制，更发布了 PyPubg 与 PyATT-Win，正式将深度学习视觉识别库与自动化调度平台引入核心业务线。' }
+    { title: 'Dawn 起步：', bio: '2020-2021', text: 'Dawn 团队初创期，以解决用户繁琐操作为导向。陆续推出了 CoH2 部署套件 Centaurus、Farm together 辅助 Phoenix，并尝试用非侵入式逻辑为《飙酷车神2》制作了自动跑圈脚本' },
+    { title: 'Dawnight 积累：深耕自动化与稳定性', bio: '2021-2024', text: '逐步摸索图像识别与底层模拟控制，重点转向保障工具的低占用与运行稳定性，为后续开发积累了较成熟的底层脚本框架。' },
+    { title: 'Astrum 阶段：', bio: '2024-至今', text: '更名为 Astrum，引入 OpenCV 与深度学习视觉技术。发布了针对教学管理软件反控的 Orion-Pro，开源了自动化调度框架 PyATT-Win，并持续维护 PyPubg 等视觉识别工具。' }
 ],
 
     // 首页用户测评区块
@@ -151,7 +151,7 @@ const CONFIG = {
     PROXIO_FAQ_TEXT_2: '我们收集了常见的用户疑问',
     PROXIO_FAQS: [
         { q: 'Astrum开发的软件收费吗？', a: 'Astrum的大部分软件都是免费的，您可以前往<a href="https://afdian.com/a/Astrum">https://afdian.com/a/Astrum</a>来支持我们的付费产品。如果软件是您在其他渠道花钱购买的我们的免费软件，请立即找商家退款并举报。' },
-        { q: '游戏辅助工具有被封禁风险吗？', a: '几乎没有。Astrum一直非常重视软件安全与用户的游戏账号安全。得益于Astrum合法的软件功能与安全性，迄今为止在Astrum所开发的所有产品中，没有任何一款产品被任何反作弊系统所检测到过。' },
+        { q: '游戏辅助工具有被封禁风险吗？', a: '没有。我们拒绝开发破坏他人游戏体验的作弊软件，我们只开发单机游戏、联机小游戏的修改器，Astrum一直非常重视软件安全与用户的游戏账号安全。得益于Astrum合法的软件功能与安全性，迄今为止在Astrum所开发的所有产品中，没有任何一款产品被任何反作弊系统所检测到过。' },
         { q: '工具有使用教程吗？', a: '对于开源项目，我们有非常详细的开发文档。对于大部分闭源项目，在许多重要功能旁我们都设置了提示或说明来引导用户正确使用。' },
         { q: '如何与我们联系？', a: '最好的方法是通过爱发电私信与我们联系：https://afdian.com/a/Astrum' },
     ],
@@ -182,7 +182,6 @@ const CONFIG = {
     'Astrum | PyATT-Win (AGPL 3.0)',
     'Astrum | PyPubg Vision',
     'Astrum | Climber Environment Control',
-    'Dawn | Cancer (Apex)',
     'Dawn | Sagittarius (The Crew 2)',
     'Dawn | Centaurus (CoH2)',
     'Dawn | Phoenix (Together Farm)',
